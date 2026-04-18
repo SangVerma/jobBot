@@ -34,7 +34,7 @@ SEARCH_QUERIES = [
 
 FILTER_SYSTEM = f"""Extract job postings from search results for "{ROLE}" in retail technology.
 
-INCLUDE only: Senior/Sr Director or VP Engineering at retail, ecommerce, omnichannel, POS companies.
+INCLUDE only: Senior/Sr Director at retail, ecommerce, omnichannel, POS companies.
 
 For each match output:
 COMPANY: [name]
